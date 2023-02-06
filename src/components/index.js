@@ -1,0 +1,6 @@
+export { default as DotGroup } from './DotGroup/DotGroup'
+export { default as Footer } from './Footer/Footer'
+export { default as LineGradient } from './LineGradient/LineGradient'
+export { default as Navbar } from './Navbar/Navbar'
+export { default as Project } from './Project/Project'
+export { default as SocialMediaIcons } from './SocialMediaIcons/SocialMediaIcons'
